@@ -1,36 +1,45 @@
 header
 {
-  height:166px;
-  border:3px solid black;
+	height:166px;
+	border:3px solid black;
 }
 nav
 {
-  border-bottom:3px solid black;
-  border-right:3px solid black;
-  border-left:3px solid black;
-  width:350px;
-  float:left;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	border-left:3px solid black;
+	width:350px;
+	float:left;
 }
 article
 {
-  border-bottom:3px solid black;
-  border-right:3px solid black;
-  width:1000px;
-  height:799.625px;
-  float:left;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	width:1000px;
+	height:915.625px;
+	float:left;
 }
 ol
 {
-  color:red;
+	color:red;
 }
 ul
 {
-  color:blue;
-  text-decoration:underline;
+	color:blue;
+	text-decoration:underline;
 }
 #Title
 {
-  font-size:80px;
-  margin:0px;
-  padding:30px;
+	font-size:80px;
+	margin:0px;
+	padding:30px;
+	padding-top:20px;
+	padding-bottom:0px;
+}
+#button
+{
+	margin-right:10px;
+	height:30px;
+	width:30px;
+	float:right;
 }
