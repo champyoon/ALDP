@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="CSS\cascadeStyleSheet.css">
 </head>
 
-<body>
+<body id="target">
 	<header>
-		<h1 id="Title"><a href="index.html">ALDP Container</a></h1> 
-		<input id="button" type="button" value="" onclick="document.body.style.backgroundColor='black'" style="background-color:black;">
-		<input id="button" type="button" value="" onclick="document.body.style.backgroundColor='White'" style="background-color:white;">
+		<h1 id="Title"><a href="main.php?user=1111&pass=1111">ALDP Container</a></h1>
+		<input type="button" id="black_btn" value="">
+		<input type="button" id="white_btn" value="">
 	</header>
 	
 	<nav>
@@ -78,8 +78,20 @@
 	</nav>
 	
 	<article>
-		<img src="picture\newyork.jpg" width="80%">
+		<img src="picture\newyork.jpg" width="900px">
 	</article>
+	
+	<script>
+		bbtn = document.getElementById('black_btn');
+		bbtn.addEventListener('click', function(){
+			document.getElementById('target').className='black';
+		})
+		
+		wbtn = document.getElementById('white_btn');
+		wbtn.addEventListener('click', function(){
+			document.getElementById('target').className='white';
+		})
+	</script>
 </body>
 
 </html>
