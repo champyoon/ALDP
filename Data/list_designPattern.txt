@@ -1,0 +1,20 @@
+<ol>
+  <li>Behavioral</li>
+    <ul>
+      <li>Strategy Pattern (<a href="https://en.wikipedia.org/wiki/Strategy_pattern" target="_blank">Reference</a>) </li>
+      <li>Command Pattern (<a href="https://en.wikipedia.org/wiki/Command_pattern" target="_blank">Reference</a>) </li>
+      <li>Observer Pattern (<a href="https://en.wikipedia.org/wiki/Observer_pattern" target="_blank">Reference</a>) </li>
+      <li>Template Pattern (<a href="https://en.wikipedia.org/wiki/Template_method_pattern" target="_blank">Reference</a>) </li>
+    </ul>
+  <li>Structural</li>
+    <ul>
+      <li>Decorator Pattern (<a href="https://en.wikipedia.org/wiki/Decorator_pattern" target="_blank">Reference</a>) </li>
+      <li>Adapter Pattern (<a href="https://en.wikipedia.org/wiki/Decorator_pattern" target="_blank">Reference</a>) </li>
+      <li>Composite Pattern (<a href="https://en.wikipedia.org/wiki/Decorator_pattern" target="_blank">Reference</a>) </li>
+    </ul>
+  <li>Creational</li>
+    <ul>
+      <li>Factory Pattern (<a href="https://en.wikipedia.org/wiki/Factory_method_pattern" target="_blank">Reference</a>) </li>
+      <li>Singleton Pattern (<a href="https://en.wikipedia.org/wiki/Singleton_pattern" target="_blank">Reference</a>) </li>
+    </ul>
+</ol>

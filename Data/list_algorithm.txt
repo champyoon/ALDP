@@ -1,0 +1,36 @@
+<ol>
+  <li>Sort</li>
+    <ul>
+      <li>Quick Sort (<a href="https://en.wikipedia.org/wiki/Quicksort" target="_blank">Reference</a>) </li>
+      <li>Merge Sort (<a href="https://en.wikipedia.org/wiki/Merge_sort" target="_blank">Reference</a>) </li>
+      <li>Bubble Sort (<a href="https://en.wikipedia.org/wiki/Bubble_sort" target="_blank">Reference</a>) </li>
+    </ul>
+  <li>Graph</li>
+    <ul>
+      <li>DFS</li>
+      <li>BFS</li>
+      <li>Dijkstra</li>
+      <li>Floyd-Warshall</li>
+      <li>Union-Find</li>
+      <li>Topological Sorting</li>
+      <li>Kruskal</li>
+      <li>Prim</li>
+    </ul>
+  <li>Mathmatics</li>
+    <ul>
+      <li>Cross Product</li>
+      <li>Area of Polygon</li>
+      <li>CounterClockWise</li>
+      <li>Convex Hull</li>
+    </ul>
+  <li>Recursion</li>
+    <ul>
+      <li>Fibonacci Sequence</li>
+      <li>Tower of Hanoi</li>
+      <li>N-Queen</li>
+    </ul>
+  <li>Dynamic Programming</li>
+    <ul>
+      <li>Recursion Formula</li>
+    </ul>
+</ol>
